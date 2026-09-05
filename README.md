@@ -46,7 +46,7 @@ Priorização: o grupo optou por implementar o fluxo **ponta a ponta** (cadastro
 
 ## Telas do aplicativo
 
-> As imagens abaixo devem ser prints reais do app rodando no Android Studio/emulador/dispositivo — faltam os prints de **Histórico** e **Impacto**, adicione em `docs/screenshots/history.png` e `docs/screenshots/impact.png` antes da entrega.
+
 
 | Tela | Descrição |
 |---|---|
@@ -70,6 +70,11 @@ Priorização: o grupo optou por implementar o fluxo **ponta a ponta** (cadastro
 ![Agendamento](docs/screenshots/schedule.png)
 ![Confirmação](docs/screenshots/confirmation.png)
 ![Home](docs/screenshots/home.png)
+<img width="383" height="834" alt="image" src="https://github.com/user-attachments/assets/28d75dc4-fd75-452a-bfa7-80a2a1d672f9" />
+<img width="390" height="858" alt="image" src="https://github.com/user-attachments/assets/7cce4b16-121f-4e61-8452-5b21cb8295a0" />
+
+
+
 
 
 ## Dados mockados
