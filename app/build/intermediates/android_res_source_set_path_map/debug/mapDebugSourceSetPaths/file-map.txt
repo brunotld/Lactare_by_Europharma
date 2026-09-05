@@ -1,0 +1,8 @@
+com.example.lactare.app-pngs-0 D:\Lactare\app\build\generated\res\pngs\debug
+com.example.lactare.app-updated_navigation_xml-1 D:\Lactare\app\build\generated\updated_navigation_xml\debug
+com.example.lactare.app-packageDebugResources-2 D:\Lactare\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lactare.app-packageDebugResources-3 D:\Lactare\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lactare.app-debug-4 D:\Lactare\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.lactare.app-debug-5 D:\Lactare\app\src\debug\res
+com.example.lactare.app-main-6 D:\Lactare\app\src\main\res
+gradleHome-0 C:\Users\Usuario\.gradle
