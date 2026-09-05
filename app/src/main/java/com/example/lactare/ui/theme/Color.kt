@@ -14,4 +14,3 @@ val LactarePink = Color(0xFFF7C6D0)
 
 val White = Color(0xFFFFFFFF)
 
-val DarkText = Color(0xFF1C1B1F)

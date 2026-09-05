@@ -323,18 +323,3 @@ fun LockIcon(
     }
 }
 
-@Composable
-fun LactareLogoMark(
-    modifier: Modifier = Modifier,
-    diameter: Dp = 96.dp,
-    backgroundColor: Color = Color.White,
-    tintColor: Color = LactareBlue
-) {
-    IconBadge(
-        modifier = modifier,
-        diameter = diameter,
-        backgroundColor = backgroundColor
-    ) {
-        DropIcon(iconSize = diameter * 0.5f, color = tintColor)
-    }
-}
