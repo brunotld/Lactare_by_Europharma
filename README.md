@@ -71,6 +71,8 @@ Priorização: o grupo optou por implementar o fluxo **ponta a ponta** (cadastro
 ![Confirmação](docs/screenshots/confirmation.png)
 ![Home](docs/screenshots/home.png)
 <img width="383" height="834" alt="image" src="https://github.com/user-attachments/assets/28d75dc4-fd75-452a-bfa7-80a2a1d672f9" />
+<img width="390" height="858" alt="image" src="https://github.com/user-attachments/assets/7cce4b16-121f-4e61-8452-5b21cb8295a0" />
+
 
 
 
