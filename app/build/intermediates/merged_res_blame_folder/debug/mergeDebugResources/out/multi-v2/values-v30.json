@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.lactare.app-mergeDebugResources-38:/values-v30/values-v30.xml",
+            "outputFile": "com.example.lactare.app-mergeDebugResources-35:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\9.7.1\\transforms\\99364d4105a81b83fbf477ba12ec670b\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\9.7.1\\transforms\\4a663aeeba528d23ceaaeda535439e84\\transformed\\material3\\res\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
