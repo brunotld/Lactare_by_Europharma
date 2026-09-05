@@ -70,6 +70,9 @@ Priorização: o grupo optou por implementar o fluxo **ponta a ponta** (cadastro
 ![Agendamento](docs/screenshots/schedule.png)
 ![Confirmação](docs/screenshots/confirmation.png)
 ![Home](docs/screenshots/home.png)
+<img width="383" height="834" alt="image" src="https://github.com/user-attachments/assets/28d75dc4-fd75-452a-bfa7-80a2a1d672f9" />
+
+
 
 
 ## Dados mockados
